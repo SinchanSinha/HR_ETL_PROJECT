@@ -37,7 +37,7 @@ public class EmployeeLoadJobConfiguration {
 
         FlatFileItemReader<Employee> flatFileItemReader = new FlatFileItemReader<>();
 
-        flatFileItemReader.setResource(new ClassPathResource("/input/EmployeeData.csv"));
+        flatFileItemReader.setResource(new ClassPathResource("/input/EmpData.csv"));
         flatFileItemReader.setLinesToSkip(1);
 
         DefaultLineMapper<Employee> defaultLineMapper = new DefaultLineMapper<>();
