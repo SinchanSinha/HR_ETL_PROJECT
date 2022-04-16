@@ -1,0 +1,3 @@
+SYS_DATE,file_id,emp_file_ID,manager_id,hr_id,base_location,curr_location,emp_role,bu_cd,is_retired,retired_date,highest_education,grade_cd,project_cd,bill_by_week
+16/04/2022,3,1,100034,100033,INKOLC,INKOLG,N/A,N/A,N,,B.TECH.,C1Y,ILPDN,0
+16/04/2023,3,2,100034,100033,INKOLG,INKOLC,N/A,N/A,N,,M.C.A.,C1,ILPSP,0
